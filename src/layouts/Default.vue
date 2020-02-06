@@ -47,7 +47,7 @@
             <g-link v-else to="/#about" class="text-copy-primary hover:text-gray-600">About</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
-            <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
+            <g-link to="/blog/" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
             <a
@@ -55,7 +55,7 @@
               href="/contact"
               class="text-copy-primary hover:text-gray-600"
             >Contact</a>
-            <g-link v-else to="/contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
+            <g-link v-else to="/contact/" class="text-copy-primary hover:text-gray-600">Contact</g-link>
           </li>
 
         </ul>

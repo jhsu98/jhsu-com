@@ -18,7 +18,14 @@
           </p>
 
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" name="contact" class="mb-12" netlify>
+            <form
+    name="contact"
+    method="post"
+    data-netlify="true"
+    data-netlify-honeypot="bot-field"
+    class="mb-12"
+    >
+    <input type="hidden" name="form-name" value="contact" />
               <div class="flex flex-wrap mb-6 -mx-4">
                 <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                   <label class="block mb-2 text-copy-primary" for="name">Name</label>
