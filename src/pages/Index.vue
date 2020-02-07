@@ -1,30 +1,27 @@
 <template>
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
-      <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Gridsome Portfolio Starter</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp; Tailwind v1</div>
+      <div class="text-6xl font-bold w-full sm:w-3/5 text-center sm:text-left">
+        <div class="leading-tight">Jonathan Hsu</div>
+        <div class="text-2xl"><span class="text-secondary-700">Problem Solver | Coder | Writer</span></div>
       </div>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
+        <g-image src="../../static/solution_mindset.svg" alt="hero" class="max-w-xs mx-auto sm:mx-0" />
       </div>
     </div>
     <!-- end hero -->
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        This gridsome theme was forked from my
-        <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on
-        <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the
-        <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.
+        Welcome to my corner of the global digital community. I'll be working to update this site in the coming days. Join my mailing list if you'd like to keep up to date with my exploits. Looking forward to the fresh new look!
       </p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
-          <g-image src="../../static/mind_map.svg" alt="browser" />
+          <g-image src="../../static/professor.svg" alt="browser" />
         </div>
         <div class="w-1/2 px-8 hidden sm:flex justify-end">
-          <g-image src="../../static/code_review.svg" alt="mobile" />
+          <g-image src="../../static/success_factors.svg" alt="mobile" />
         </div>
       </div>
     </div>
@@ -84,7 +81,7 @@
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div>
             <g-image
-              src="../../static/avatar.jpg"
+              src="../../static/avatar.png"
               alt="avatar"
               class="w-32 h-32 rounded-full mb-8 lg:mb-0"
             />
@@ -94,7 +91,7 @@
           >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quae architecto minus molestias iusto ducimus fuga quo quia libero dignissimos, fugiat modi assumenda debitis laboriosam.</div>
         </div>
 
-        <div class="responsive-container">
+        <!-- <div class="responsive-container">
           <iframe
             class="responsive-iframe w-full h-full top-0 left-0 border-0"
             src="https://www.youtube.com/embed/uHo6o1TNQeE"
@@ -102,7 +99,7 @@
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
-        </div>
+        </div> -->
       </div>
       <!-- end get-to-know me -->
     </div>
