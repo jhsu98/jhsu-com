@@ -35,7 +35,7 @@
                     name="name"
                     id="name"
                     placeholder="Jon Snow"
-                    class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4"
+                    class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-yellow-700 mb-2 p-4"
                     required
                   />
                 </div>
@@ -48,7 +48,7 @@
                     name="email"
                     id="email"
                     placeholder="email@example.com"
-                    class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4"
+                    class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-yellow-700 mb-2 p-4"
                     required
                   />
                 </div>
@@ -61,7 +61,7 @@
                   id="message"
                   rows="5"
                   name="message"
-                  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4"
+                  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-yellow-700 mb-2 px-4 py-4"
                   placeholder="Enter your message here."
                   required
                 ></textarea>
@@ -71,7 +71,7 @@
                 <input
                   type="submit"
                   value="Submit"
-                  class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3"
+                  class="block bg-yellow-700 hover:bg-yellow-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3"
                 />
               </div>
             </form>
