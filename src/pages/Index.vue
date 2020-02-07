@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
       <div class="text-6xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Jonathan Hsu</div>
         <div class="text-2xl"><span class="text-secondary-700">Problem Solver | Coder | Writer</span></div>
@@ -16,7 +16,7 @@
         Welcome to my corner of the global digital community. I'll be working to update this site in the coming days. Join my mailing list if you'd like to keep up to date with my exploits. Looking forward to the fresh new look!
       </p>
 
-      <div class="flex justify-between items-center py-6">
+      <div class="flex justify-between items-center py-10">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
           <g-image src="../../static/professor.svg" alt="browser" />
         </div>
