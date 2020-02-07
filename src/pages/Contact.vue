@@ -12,9 +12,7 @@
           </div>
 
           <p class="mb-12">
-            Static sites cannot submit forms on their own. However, services like
-            <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or
-            <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.
+              Let me know if youre interested in solutions consulting, contract content creation, or individual coaching. Just fill out the form below and I'll get back to you at my earliest convenience!
           </p>
 
           <div class="text-lg sm:text-lg mb-16">

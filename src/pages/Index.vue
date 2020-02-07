@@ -1,8 +1,8 @@
 <template>
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
-      <div class="text-6xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Jonathan Hsu</div>
+      <div class="text-5xl font-bold w-full sm:w-3/5 text-center sm:text-left">
+        <div class="leading-tight">Jonathan Hsu, PhD</div>
         <div class="text-2xl"><span class="text-secondary-700">Problem Solver | Coder | Writer</span></div>
       </div>
       <div class="mt-8 sm:mt-0">
