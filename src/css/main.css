@@ -59,11 +59,11 @@
 }
 
 a {
-  @apply text-green-700 font-bold;
+  @apply text-yellow-700 font-bold;
 }
 
 a:hover {
-  @apply text-green-800;
+  @apply text-yellow-800;
 }
 
 /* nav .active {
