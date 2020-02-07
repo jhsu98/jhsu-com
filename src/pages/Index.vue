@@ -40,28 +40,28 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>Project One</div>
+            <div>SaaS Pricing Increase</div>
             <div
               class="text-lg text-gray-600"
-            >Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            >Strategically led the execution of a 50% increase to annual subscription cost.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Two</div>
+            <div>Writer for Better Programming</div>
             <div
               class="text-lg text-gray-600"
-            >Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            >Published over 100 Python and JavaScript tutorials for Better Programming on Medium.com</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Three</div>
+            <div>IFB Wrapper</div>
             <div
               class="text-lg text-gray-600"
-            >Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            >Developed and maintained an API wrapper for the iFormBuilder mobile data collection platform.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Four</div>
+            <div>University Adjunct Professor</div>
             <div
               class="text-lg text-gray-600"
-            >Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            >Taught introductory programming and mathematics at George Mason University for six years.</div>
           </li>
         </ul>
       </div>
