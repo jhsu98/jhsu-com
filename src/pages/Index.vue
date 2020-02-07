@@ -88,7 +88,7 @@
           </div>
           <div
             class="flex-1 text-lg sm:text-xl ml-6"
-          >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quae architecto minus molestias iusto ducimus fuga quo quia libero dignissimos, fugiat modi assumenda debitis laboriosam.</div>
+          >For my "day job" I work as a Customer Success professional co-creating data collection solutions for SMB and enterprise companies. You can also find me blogging on Medium.com, on Battle.net playing Starcraft II, or in the dojo practicing martial arts.</div>
         </div>
 
         <!-- <div class="responsive-container">
