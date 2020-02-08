@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="overflow-x-hidden">
-      hello
+      <h1 class="my-16 text-center text-3xl">Coming Soon!</h1>
     </div>
   </Layout>
 </template>
