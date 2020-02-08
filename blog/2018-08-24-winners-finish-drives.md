@@ -2,11 +2,10 @@
 title: "Winners Finish Drives: Three Closing Strategies When Deploying Solutions"
 path: /winners-finish-drives
 date: 2018-08-24
+featured: "./images/winners-finish-drives-three-closing-strategies-when-deploying-solutions.jpg"
 summary: In my experience, successfully navigating the closure of a project is equal parts confidence and empathy. You have to be strong enough to let go, but also respect the psyche of the customer. Additionally, you cannot be too eager to wash your hands and disengage preemptively. Winners want the ball, don’t settle for a field goal.
-tags: ['frontend', 'coding', 'vue']
+tags: ['customer success']
 ---
-
-![An Image](./images/winners-finish-drives-three-closing-strategies-when-deploying-solutions.jpg)
 
 Close enough isn’t good enough.
 

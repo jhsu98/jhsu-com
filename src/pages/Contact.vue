@@ -1,6 +1,6 @@
 <template>
   <Layout>
-<div class="overflow-x-hidden">
+    <div class="overflow-x-hidden">
       <div class="contact-me bg-background-primary pt-16">
         <div class="container-inner mx-auto text-xl pb-4 relative">
           <h2 class="font-bold mb-6" id="contact">Contact me:</h2>
@@ -11,19 +11,19 @@
             </svg>
           </div>
 
-          <p class="mb-12">
-              Let me know if youre interested in solutions consulting, contract content creation, or individual coaching. Just fill out the form below and I'll get back to you at my earliest convenience!
-          </p>
+          <p
+            class="mb-12"
+          >Let me know if youre interested in solutions consulting, contract content creation, or individual coaching. Just fill out the form below and I'll get back to you at my earliest convenience!</p>
 
           <div class="text-lg sm:text-lg mb-16">
             <form
-    name="contact"
-    method="post"
-    data-netlify="true"
-    data-netlify-honeypot="bot-field"
-    class="mb-12"
-    >
-    <input type="hidden" name="form-name" value="contact" />
+              name="contact"
+              method="post"
+              data-netlify="true"
+              data-netlify-honeypot="bot-field"
+              class="mb-12"
+            >
+              <input type="hidden" name="form-name" value="contact" />
               <div class="flex flex-wrap mb-6 -mx-4">
                 <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                   <label class="block mb-2 text-copy-primary" for="name">Name</label>
@@ -78,15 +78,14 @@
       </div>
       <!-- end contact-me -->
     </div>
-
   </Layout>
 </template>
 
 <script>
 export default {
   metaInfo: {
-    title: 'Contact Me'
+    title: "Contact Me"
   }
-}
+};
 </script>
 

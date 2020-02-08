@@ -8,10 +8,11 @@
           :to="tag.path"
           v-for="tag in $page.post.tags"
           :key="tag.id"
-          class="bg-gray-300 rounded-full px-4 py-2 mr-4 hover:bg-yellow-300 hover:text-white">
+          class="text-yellow-800 bg-gray-200 rounded-full px-4 py-2 mr-4 hover:bg-yellow-600 hover:text-white">
           {{ tag.title }}
         </g-link>
       </div>
+      <div class="mb-8"><g-image :src="$page.post.featured" alt="featured" /></div>
       <div class="markdown-body mb-8" v-html="$page.post.content" />
       <div class="mb-8">
         <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
@@ -26,6 +27,7 @@ query Post ($path: String!) {
     title
     date (format: "MMMM D, Y")
     content
+    featured
     tags {
       title
       path
