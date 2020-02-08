@@ -9,7 +9,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Resume"
+    title: "About Me"
   }
 };
 </script>

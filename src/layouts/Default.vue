@@ -47,20 +47,12 @@
             <g-link v-else to="/" class="text-copy-primary hover:text-gray-600">Home</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
-            <a
-              v-if="$route.path === '/'"
-              href="/#about"
-              v-scroll-to="'#about'"
-              class="text-copy-primary hover:text-gray-600"
-            >About</a>
-            <g-link v-else to="/#about" class="text-copy-primary hover:text-gray-600">About</g-link>
+            <g-link to="/about/" class="text-copy-primary hover:text-gray-600">About</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
             <g-link to="/blog/" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
-          <li class="mr-8 mb-6 lg:mb-0">
-            <g-link to="/resume/" class="text-copy-primary hover:text-gray-600">Resume</g-link>
-          </li>
+
           <li class="mr-8 mb-6 lg:mb-0">
             <a
               v-if="$route.path === '/'"
@@ -207,13 +199,13 @@
 
           <li class="mr-8">
             <a
-              href="https://youtube.com/drehimself"
+              href="https://medium.com/@jhsu98"
               target="_blank"
               class="text-white hover:text-gray-400"
             >
               <svg width="26" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path
-                  d="M25.457 3.13c-.3-1.232-1.18-2.203-2.299-2.532C21.13 0 13 0 13 0S4.87 0 2.842.598c-1.119.33-2 1.3-2.299 2.531C0 5.362 0 10.02 0 10.02s0 4.658.543 6.891c.3 1.232 1.18 2.162 2.299 2.49C4.87 20 13 20 13 20s8.13 0 10.158-.598c1.119-.33 2-1.26 2.299-2.49C26 14.677 26 10.02 26 10.02s0-4.658-.543-6.89zM10.34 14.25V5.79l6.795 4.23-6.795 4.23z"
+                  d="M46.5340803,65.2157554 C46.6968378,63.6076572 46.0836,62.018231 44.8828198,60.93592 L32.6512605,46.2010582 L32.6512605,44 L70.6302521,44 L99.9859944,108.380952 L125.794585,44 L162,44 L162,46.2010582 L151.542017,56.2281011 C150.640424,56.9153477 150.193188,58.0448862 150.380019,59.1628454 L150.380019,132.837155 C150.193188,133.955114 150.640424,135.084652 151.542017,135.771899 L161.755369,145.798942 L161.755369,148 L110.38282,148 L110.38282,145.798942 L120.963119,135.527337 C122.002801,134.487948 122.002801,134.182246 122.002801,132.592593 L122.002801,73.0417402 L92.585901,147.755438 L88.6106443,147.755438 L54.3622782,73.0417402 L54.3622782,123.115814 C54.0767278,125.221069 54.7759199,127.3406 56.2581699,128.863022 L70.0186741,145.55438 L70.0186741,147.755438 L31,147.755438 L31,145.55438 L44.7605042,128.863022 C46.2319621,127.338076 46.8903838,125.204485 46.5340803,123.115814 L46.5340803,65.2157554 Z"
                   fill-rule="nonzero"
                 />
               </svg>
