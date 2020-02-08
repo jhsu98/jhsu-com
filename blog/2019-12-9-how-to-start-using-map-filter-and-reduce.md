@@ -7,6 +7,4 @@ summary: "Reviewing my previously written code, I realized that 95% of the time 
 tags: ['programming', 'javascript']
 ---
 
-This article is published by Better Programming on Medium.com
-
-\>> [Take Me There!](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81) <<
+> This article is published by [Better Programming](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81) on [Medium.com](https://medium.com/better-programming/how-to-start-using-map-filter-and-reduce-e01edba0d81)
