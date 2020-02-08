@@ -59,6 +59,9 @@
             <g-link to="/blog/" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
+            <g-link to="/resume/" class="text-copy-primary hover:text-gray-600">Resume</g-link>
+          </li>
+          <li class="mr-8 mb-6 lg:mb-0">
             <a
               v-if="$route.path === '/'"
               href="/contact/"
