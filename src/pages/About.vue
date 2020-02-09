@@ -2,7 +2,7 @@
   <Layout>
       <!-- PROFESSIONAL PROFILE -->
       <div class="overflow-x-hidden border-gray-200">
-        <div class="container-inner mx-auto text-xl pt-12 pb-4 mb-8 relative">
+        <div class="container-inner mx-auto text-xl pt-16 pb-4 mb-8 mt-4 relative">
           <h2 class="font-bold mb-6" id="about">Some men dream of fortunes...</h2>
 
           <div class="absolute left-0" style="bottom: 10px; transform: translateX(-100%)">
@@ -28,7 +28,8 @@
 
       <!-- PROFESSIONAL EXPERIENCE -->
       <div class="overflow-x-hidden border-gray-200 bg-background-primary">
-        <div class="container-inner mx-auto text-xl mt-6 relative">
+        <hr width="50%" style="margin: auto" />
+        <div class="container-inner mx-auto text-xl mt-8 relative">
           <h2 class="font-bold mb-6" id="about">Profesional Experience</h2>
           <div class="flex flex-col sm:flex-row justify-between items-center mb-8">
             <div class="flex-1 text-lg sm:text-xl ml-6">
@@ -93,12 +94,13 @@
             </div>
           </div>
         </div>
+        <hr width="50%" style="margin: auto" />
       </div>
       <!-- END EDUCATION -->
 
       <!-- PERSONAL INTERESTS -->
       <div class="overflow-x-hidden border-gray-200">
-        <div class="container-inner mx-auto text-xl pt-12 pb-4 mb-8 relative">
+        <div class="container-inner mx-auto text-xl pt-12 pb-4 mt-4 mb-8 relative">
           <h2 class="font-bold mb-6" id="about">Others dream of cookies...</h2>
 
           <div class="absolute left-0" style="bottom: 10px; transform: translateX(-100%)">
