@@ -14,7 +14,7 @@
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
-        Welcome to my corner of the global digital community. I'll be working to update this site in the coming days. Join my mailing list if you'd like to keep up to date with my exploits. Looking forward to the fresh new look!
+        Welcome to my corner of the global digital world. Join my mailing list if you'd like to keep up to date with my exploits. Enjoy your stay!
       </p>
 
       <div class="flex justify-between items-center py-10">
