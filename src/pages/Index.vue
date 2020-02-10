@@ -1,5 +1,6 @@
 <template>
   <Layout>
+    <!-- hero -->
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
       <div class="text-5xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Jonathan Hsu, PhD</div>

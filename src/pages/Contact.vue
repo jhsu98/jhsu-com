@@ -1,14 +1,16 @@
 <template>
   <Layout>
-        <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+    <!-- hero -->
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+      <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
+        <div class="leading-tight">Jonathan Hsu, PhD</div>
+        <div class="text-2xl"><span class="text-secondary-700">Problem Solver | Coder | Writer</span></div>
+      </div>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/emails.svg" alt="hero" class="w-2/3 max-w-xs mx-auto sm:mx-0" />
+        <g-image src="../../static/emails.svg" alt="hero" class="max-w-xs w-4/5 mx-auto sm:mx-0" />
       </div>
-      <div class="ml-8 text-5xl font-bold w-full sm:w-3/5 text-center sm:text-right align-text-bottom align-bottom border-b">
-        <div class="leading-tight">Contact Me</div>
-        <div class="text-2xl"><span class="text-secondary-700">&nbsp;</span></div>
-      </div>
-      </div>
+    </div>
+    <!-- end hero -->
     <div class="overflow-x-hidden">
       <div class="contact-me bg-background-primary mb-12">
         <div class="container-inner mx-auto text-xl pb-8 pt-16 relative">
