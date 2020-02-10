@@ -19,6 +19,12 @@ module.exports = {
   siteUrl: 'https://www.j-hsu.com',
   plugins: [
     {
+      use: "@gridsome/plugin-google-analytics",
+      options: {
+        id: "UA-124647746-3"
+      }
+    },
+    {
       use: '@gridsome/vue-remark',
       options: {
         typeName: 'Documentation', // Required
