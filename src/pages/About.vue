@@ -1,11 +1,22 @@
 <template>
   <Layout>
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+      <div class="mt-8 sm:mt-0">
+        <g-image src="../../static/profile.svg" alt="hero" class="w-4/5 max-w-xs mx-auto sm:mx-0" />
+      </div>
+      <div class="ml-8 text-5xl font-bold w-full sm:w-3/5 text-center sm:text-right align-text-bottom align-bottom border-b">
+        <div class="leading-tight align-text-bottom align-bottom">About Me</div>
+        
+      </div>
+
+    </div>
+    <!-- end hero -->
       <!-- PROFESSIONAL PROFILE -->
       <div class="overflow-x-hidden border-gray-200">
-        <div class="container-inner mx-auto text-xl pt-16 pb-4 mb-8 mt-4 relative">
+        <div class="container-inner mx-auto text-xl pt-8 pb-4 mb-4 mt-4 relative">
           <h2 class="font-bold mb-6" id="about">Some men dream of fortunes...</h2>
 
-          <div class="absolute left-0" style="bottom: 10px; transform: translateX(-100%)">
+          <div class="absolute left-0" style="bottom: 25px; transform: translateX(-100%)">
             <svg width="170px" height="170px">
               <use xlink:href="#dots-triangle" />
             </svg>
@@ -100,10 +111,10 @@
 
       <!-- PERSONAL INTERESTS -->
       <div class="overflow-x-hidden border-gray-200">
-        <div class="container-inner mx-auto text-xl pt-12 pb-4 mt-4 mb-8 relative">
+        <div class="container-inner mx-auto text-xl pt-8 pb-4 mt-4 mb-8 relative">
           <h2 class="font-bold mb-6" id="about">Others dream of cookies...</h2>
 
-          <div class="absolute left-0" style="bottom: 10px; transform: translateX(-100%)">
+          <div class="absolute left-0" style="bottom: 25px; transform: translateX(-100%)">
             <svg width="170px" height="170px">
               <use xlink:href="#dots-triangle" />
             </svg>

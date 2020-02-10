@@ -1,21 +1,32 @@
 <template>
   <Layout>
+        <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+      <div class="mt-8 sm:mt-0">
+        <g-image src="../../static/emails.svg" alt="hero" class="w-2/3 max-w-xs mx-auto sm:mx-0" />
+      </div>
+      <div class="ml-8 text-5xl font-bold w-full sm:w-3/5 text-center sm:text-right align-text-bottom align-bottom border-b">
+        <div class="leading-tight">Contact Me</div>
+        <div class="text-2xl"><span class="text-secondary-700">&nbsp;</span></div>
+      </div>
+      </div>
     <div class="overflow-x-hidden">
-      <div class="contact-me bg-background-primary pt-16">
-        <div class="container-inner mx-auto text-xl pb-4 relative">
-          <h2 class="font-bold mb-6" id="contact">Contact me:</h2>
-
-          <div class="absolute right-0 top-0" style="transform: translate(100%) rotate(180deg)">
+      <div class="contact-me bg-background-primary mb-12">
+        <div class="container-inner mx-auto text-xl pb-8 pt-16 relative">
+          <div class="absolute right-0" style="top: 25px; transform: translate(100%) rotate(180deg)">
             <svg width="170px" height="170px">
               <use xlink:href="#dots-triangle" />
             </svg>
           </div>
-
+          <div class="absolute left-0" style="bottom: 25px; transform: translateX(-100%)">
+            <svg width="170px" height="170px">
+              <use xlink:href="#dots-triangle" />
+            </svg>
+          </div>
           <p
             class="mb-12"
           >Let me know if youre interested in solutions consulting, contract content creation, or individual coaching. Just fill out the form below and I'll get back to you at my earliest convenience!</p>
 
-          <div class="text-lg sm:text-lg mb-16">
+          <div class="text-lg sm:text-lg mb-12">
             <form
               name="contact"
               method="post"

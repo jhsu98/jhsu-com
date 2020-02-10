@@ -1,5 +1,16 @@
 <template>
   <Layout>
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+      <div class="mt-8 sm:mt-0">
+        <g-image src="../../static/creative_thinking.svg" alt="hero" class="w-3/5 max-w-sm mx-auto sm:mx-0" />
+      </div>
+      <div class="ml-8 text-5xl font-bold w-full sm:w-3/5 text-center sm:text-right align-text-bottom align-bottom border-b">
+        <div class="leading-tight">Blog</div>
+        <div class="text-2xl"><span class="text-secondary-700">&nbsp;</span></div>
+      </div>
+
+    </div>
+    <!-- end hero -->
     <div class="container-inner mx-auto py-16">
       <div v-for="post in $page.posts.edges" :key="post.id" class="post border-gray-400 border-b mb-12">
         <g-link :to="post.node.path"><g-image :src="post.node.featured" alt="featured-image" /></g-link>
