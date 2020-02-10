@@ -4,7 +4,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Jonathan Hsu, PhD</div>
-        <div class="text-2xl"><span class="text-secondary-700">Problem Solver | Coder | Writer</span></div>
+        <div class="text-2xl"><span class="text-secondary-700">Reflections on customer success, programming, and writing</span></div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/creative_thinking.svg" alt="hero" class="max-w-xs mx-auto w-4/5 sm:mx-0" />

@@ -3,8 +3,8 @@
     <!-- hero -->
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Jonathan Hsu, PhD</div>
-        <div class="text-2xl"><span class="text-secondary-700">Problem Solver | Coder | Writer</span></div>
+        <div class="leading-tight">About Me</div>
+        <div class="text-2xl"><span class="text-secondary-700">Where I've been and where I want to go</span></div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/profile.svg" alt="hero" class="max-w-xs mx-auto sm:mx-0" />
