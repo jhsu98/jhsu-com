@@ -47,7 +47,7 @@
               My professional experiences are diverse and I'm better for it. Here are some of the organizations, roles, and successes I have been a part of.
               <ul class="text-lg sm:text-xl mx-6">
                 <li class="my-6">
-                  <b>Solutions Engineer / Customer Success <span class="text-gray-500">(2016-Present)</span></b>
+                  <strong>Solutions Engineer / Customer Success </strong>(2016-Present)
                   <ul class="pl-6" style="list-style-type: circle;">
                     <li>Manage the retention and expansion of customers through building strong relationships, co-creating solutions, and advocating for customer needs.</li>
                     <li>Led an initiative to increase annual subscription rate of existing customers.</li>
@@ -56,21 +56,21 @@
                     </ul>
                 </li>
                 <li class="my-6">
-                  <b>Freelance Writer <span class="text-gray-500">(2018-Present)</span></b>
+                  <strong>Freelance Writer </strong>(2018-Present)
                   <ul class="pl-6" style="list-style-type: circle;">
                     <li>Programming tutorials published by Better Programming on Medium.com</li>
                     <li>Writing advice published by Better Marketing on Medium.com</li>
                   </ul>
                 </li>
                 <li class="my-6">
-                  <b>Adjunct Professor, Undergraduate Programming <span class="text-gray-500">(2010-2016)</span></b>
+                  <strong>Adjunct Professor, Undergraduate Programming </strong>(2010-2016)
                   <ul class="pl-6" style="list-style-type: circle;">
                     <li>IT 102: Discrete Structures, discrete mathematics with programming fundamentals in Python</li>
                     <li>IT 207: Applied IT Programming, web-focused server-side programming with PHP, MySQL, and HTML</li>
                     </ul>
                 </li>
                 <li class="my-6">
-                  <strong>Martial Arts Instructor <span class="text-gray-500">(1997-2017)</span></strong>
+                  <strong>Martial Arts Instructor </strong>(1997-2017)
                   <ul class="pl-6" style="list-style-type: circle;">
                     <li>Hired, trained, and supervised junior instructors</li>
                     <li>Community role model, leadership, and student advocacy</li>
