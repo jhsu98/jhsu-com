@@ -37,11 +37,11 @@
       <!-- END PERSONAL INTERESTS -->
       <!-- SERVICES 1 -->
       <div class="overflow-x-hidden border-gray-200 bg-background-secondary">
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between pt-10" pb-5>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/all_the_data.svg" alt="hero" class="max-w-xs w-5/6 mx-auto sm:mx-0" />
+        <g-image src="../../static/all_the_data.svg" alt="hero" class="max-w-xs w-5/6 mx-auto sm:mx-0 px-8" />
       </div>
-      <div class="text-3xl font-bold w-full sm:w-3/5 text-center sm:text-left pl-16">
+      <div class="text-3xl font-bold w-full sm:w-3/5 text-center sm:text-left px-8">
         <div>Data Collection Consulting</div>
       </div>
     </div>
@@ -58,11 +58,11 @@
 
       <!-- SERVICES 2 -->
       <div class="overflow-x-hidden border-gray-200 bg-background-primary">
-      <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+      <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between pt-10 pb-5">
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/pair_programming.svg" alt="hero" class="max-w-xs mx-auto sm:mx-0" />
+        <g-image src="../../static/pair_programming.svg" alt="hero" class="max-w-xs mx-auto sm:mx-0 px-8" />
       </div>
-      <div class="text-3xl font-bold w-full sm:w-3/5 text-center sm:text-left pl-16">
+      <div class="text-3xl font-bold w-full sm:w-3/5 text-center sm:text-left px-8">
         <div>Personal Tech Coaching</div>
       </div>
     </div>
@@ -79,11 +79,11 @@
 
       <!-- SERVICES 3 -->
       <div class="overflow-x-hidden border-gray-200 bg-background-secondary pb-16">
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10">
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between pt-10 pb-5">
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/developer_activity.svg" alt="hero" class="max-w-xs mx-auto sm:mx-0" />
+        <g-image src="../../static/developer_activity.svg" alt="hero" class="max-w-xs mx-auto sm:mx-0 px-8" />
       </div>
-      <div class="text-3xl font-bold w-full sm:w-3/5 text-center sm:text-left pl-16">
+      <div class="text-3xl font-bold w-full sm:w-3/5 text-center sm:text-left px-8">
         <div>Freelance Content Creation</div>
       </div>
     </div>
