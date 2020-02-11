@@ -52,7 +52,7 @@
               <ul class="text-lg sm:text-xl mx-6" style="list-style-type: circle;">
                 <li>Digitizing paper forms</li>
                 <li>Workflow integrations</li>
-                <li>Analytics and Report generation</li>
+                <li>Analytics and report generation</li>
                 <li>Continuous improvement</li>
               </ul>
             </div>
@@ -104,9 +104,9 @@
             <div class="flex-1 text-lg sm:text-xl ml-6">
               Writing preferences are subjective, but I believe the best content reads and views like a conversation. Engage your audience with inclusive content that speaks to them as an individual.
               <ul class="text-lg sm:text-xl mx-6" style="list-style-type: circle;">
-                <li>Blog Posts</li>
-                <li>White Papers</li>
-                <li>Documentation and Training</li>
+                <li>Blog posts</li>
+                <li>White papers</li>
+                <li>Documentation and training</li>
               </ul>
             </div>
           </div>
