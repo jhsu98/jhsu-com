@@ -50,6 +50,9 @@
             <g-link to="/about/" class="text-copy-primary hover:text-gray-600">About</g-link>
           </li>
           <li class="mr-8 mb-6 lg:mb-0">
+            <g-link to="/services/" class="text-copy-primary hover:text-gray-600">Services</g-link>
+          </li>
+          <li class="mr-8 mb-6 lg:mb-0">
             <g-link to="/blog/" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
 
