@@ -26,7 +26,7 @@
           </div>
           <p
             class="mb-12"
-          >Let me know if youre interested in solutions consulting, contract content creation, or individual coaching. Just fill out the form below and I'll get back to you at my earliest convenience!</p>
+          >I'm your guy for data solutions consulting, technical coaching, or freelance content creation. Just fill out the form below and I'll get back to you at my earliest convenience!</p>
 
           <div class="text-lg sm:text-lg mb-12">
             <form
