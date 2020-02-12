@@ -31,7 +31,7 @@
           <div class="flex flex-col sm:flex-row justify-between items-center mb-12">
             <div
               class="flex-1 text-lg sm:text-xl ml-6"
-            >I'm passionate about helping others achieve their goals; first through martial arts and now working with SMB & enterprise organizations on developing data-driven workflows. My goal is to continue empowering those around me and solve complex problems through leadership, creativity, and a critical pragmatism.</div>
+            >My goal is to continue empowering those around me and solve complex challenges through leadership, creativity, and a critical pragmatism. I've worked with SMB and enterprise customers alike. As much as I enjoy going out and collaborating with customers, working internally to lead a team to be self-empowered is what truly energizes me.</div>
           </div>
         </div>
       </div>
