@@ -1,6 +1,6 @@
 ---
 title: "8 Reasons Your Personal Site Should Be Built On the JAMstack"
-path: "8-reasons-your-personal-site-should-be-built-on-the-jamstack"
+path: "/8-reasons-your-personal-site-should-be-built-on-the-jamstack"
 date: 2020-02-10
 featured: "./images/8-reasons-your-personal-site-should-be-built-on-the-jamstack.jpeg"
 summary: "A JAMstack isn’t a traditional tech stack where each letter is a specific technology — but rather a shift in design architecture. Here are eight reasons why you need to get on the JAM train and leave behind WordPress or whatever other site service you use."
