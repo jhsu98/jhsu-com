@@ -1,6 +1,6 @@
 site:
   name: J-Hsu.com
-  site: 'https://j-hsu.com'
+  site: 'https://melodic-kitten-6651e3.netlify.app/'
   base: '/'
   trailingSlash: false
 
