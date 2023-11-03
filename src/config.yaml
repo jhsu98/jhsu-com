@@ -1,10 +1,10 @@
 site:
   name: J-Hsu.com
-  site: 'https://melodic-kitten-6651e3.netlify.app/'
+  site: 'https://j-hsu.com'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: null # or orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
 # Default SEO metadata
 metadata:
