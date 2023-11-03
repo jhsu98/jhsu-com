@@ -102,5 +102,5 @@ ui:
         success: rgb(54 211 153)
         warning: rgb(251 189 35)
         error: rgb(248 114 114)
-        link: var(--ph-color-primary)
+        link: var(--ph-color-accent)
         linkActive: var(--ph-color-link)
