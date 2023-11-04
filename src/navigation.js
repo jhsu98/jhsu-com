@@ -5,15 +5,15 @@ export const headerData = {
     { text: 'Home', href: '/' },
     { text: 'About', href: '/#about' },
     { text: 'Resume', href: '/#resume' },
-    { text: 'Porfolio', href: '/#porfolio' },
+    { text: 'Portfolio', href: '/#portfolio' },
     { text: 'Blog', href: '/blog' },
   ],
-  actions: [
-    {
-      text: 'Hire me',
-      href: '#',
-    },
-  ],
+  // actions: [
+  //   {
+  //     text: 'Hire me',
+  //     href: '#',
+  //   },
+  // ],
 };
 
 export const footerData = {
