@@ -12,4 +12,4 @@ I wore a lot of hats during my time at Zerion, but none was more energizing than
 
 I enjoyed this so much that I've decided to continue doing it. Thirtysix Solutions will be my professional face moving forward. I'm eager to continue leveraging my expertise in data collection, business process automation, and integrations one business problem at a time.
 
-So, if you need help architecting, developing, or evolving your digital data processes, head on over to https://thirtysix.solutions and drop me an email.
+So, if you need help architecting, developing, or evolving your digital data processes, head on over to [https://thirtysix.solutions](https://thirtysix.solutions) and drop me an email.
