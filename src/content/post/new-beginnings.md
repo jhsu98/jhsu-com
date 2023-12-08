@@ -33,6 +33,4 @@ After a weekend of tinkering around, I truly enjoyed the learning process using 
 - Pages have three main sections: Frontmatter, HTML, and JavaScript so it's easier to read
 - The src directory is organized as pages, layouts, components, and content which resonates with me
 
-I'll be publishing with Github Pages. In the past I've used Netlify and DigitalOcean, but I want to try something else.
-
 For now, that's all. It feels great to give j-hsu.com a glow up and I'm excited for what the future has in store!
