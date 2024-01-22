@@ -12,7 +12,7 @@ import { readingTimeRemarkPlugin } from './src/utils/frontmatter.mjs';
 import { ANALYTICS, SITE } from './src/utils/config.ts';
 import vercel from '@astrojs/vercel/serverless';
 // import netlify from "@astrojs/netlify/functions";
-import image from "@astrojs/image";
+// import image from "@astrojs/image";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const whenExternalScripts = (items = []) => ANALYTICS.vendors.googleAnalytics.id && ANALYTICS.vendors.googleAnalytics.partytown ? Array.isArray(items) ? items.map(item => item()) : [items()] : [];
 
@@ -34,7 +34,7 @@ export default defineConfig({
     config: {
       forward: ['dataLayer.push']
     }
-  })), tasks(), image()],
+  })), tasks()],
   markdown: {
     remarkPlugins: [readingTimeRemarkPlugin]
   },
