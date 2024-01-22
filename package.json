@@ -16,6 +16,7 @@
     "@astrojs/netlify": "^4.1.1",
     "@astrojs/rss": "^4.0.2",
     "@astrojs/sitemap": "^3.0.5",
+    "@astrojs/vercel": "^7.0.0",
     "@astrolib/analytics": "^0.5.0",
     "@astrolib/seo": "1.0.0-beta.5",
     "@fontsource-variable/inter": "^5.0.16",
@@ -49,6 +50,6 @@
     "typescript": "^5.3.3"
   },
   "engines": {
-    "node": ">=18.14.1"
+    "node": ">=20.0.0"
   }
 }
